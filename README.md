@@ -5,5 +5,6 @@ keep adding code mainly data science,ML stuff.
 will be updating. 
 you can add your code to this repo.
 thanks www.highestinteligence.in.
-www.highestintelligence.world
+www.highestintelligence.asia
 peace,Shalom!!
+Peace-Brother-Peace
